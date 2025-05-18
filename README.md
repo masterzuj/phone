@@ -1,7 +1,16 @@
 # phone
 
-under construction
+moved to newest PHONE: phone_v2
 
+<a href="https://github.com/masterzuj/phone_v2/">phone_v2</a>
+
+![phone](https://github.com/user-attachments/assets/353ea354-4d47-4926-93f0-b7abd0ec145e)
+
+
+    git clone https://github.com/masterzuj/phone.git
+
+
+Visit also https://github.com/masterzuj/phone_v2/
 
 License for 3D Models Created with Autodesk Fusion 360 (Free, Non-Commercial Use)
 
